@@ -114,3 +114,7 @@ h2{
 .five a:hover{
 	color: red;
 }
+
+h2{
+	border-color:black;
+}

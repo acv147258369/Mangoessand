@@ -63,6 +63,8 @@ table {
 .title-2{
 	font-size: 100px;
 	border: 5px solid rgba(0, 0, 0, 0.5);
+	height: 100px;
+	width: 100px;
 }
 .main{
 	margin: 0 auto;

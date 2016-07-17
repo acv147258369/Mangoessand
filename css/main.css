@@ -122,3 +122,6 @@ h2{
 .three-1{
 	border-color:black;
 }
+.title-2{
+	border: 5px solid rgba(0, 0, 0, 0.5);
+}
